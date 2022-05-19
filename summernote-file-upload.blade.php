@@ -1,4 +1,7 @@
 <script>
+
+  // summernote file upload
+  
     $(document).ready(function() {
 $('#summernote').summernote({
 placeholder: 'Description',
